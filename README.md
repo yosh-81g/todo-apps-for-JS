@@ -1,2 +1,2 @@
-# todo-apps-for-JS
+# todo-apps
 Created with CodeSandbox
